@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/70cd590a-a08f-4a1d-aa63-ae26b7f60bce
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/yourusername/ai-prompt-generator.git](https://github.com/Croups/agentic-prompt-rewriter)
+git clone https://github.com/yourusername/ai-prompt-generator.git
 ```
 
 2. Create a virtual environment:
