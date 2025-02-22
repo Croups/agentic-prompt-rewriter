@@ -1,6 +1,10 @@
-# AI Prompt Generator
+# Agentic Prompt Rewriter
 
 A sophisticated multi-agent system that transforms simple instructions into detailed, production-ready prompts. This tool leverages GPT-4 and a pydantic-ai agent architecture to generate structured prompts with XML tags, quality guidelines, and execution steps.
+
+# DEMO 
+
+https://github.com/user-attachments/assets/70cd590a-a08f-4a1d-aa63-ae26b7f60bce
 
 ## 🌟 Features
 
@@ -15,8 +19,7 @@ A sophisticated multi-agent system that transforms simple instructions into deta
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-prompt-generator.git
-cd ai-prompt-generator
+git clone [https://github.com/yourusername/ai-prompt-generator.git](https://github.com/Croups/agentic-prompt-rewriter)
 ```
 
 2. Create a virtual environment:
@@ -55,11 +58,6 @@ The system consists of several key components:
    - Implements XML tagging
    - Ensures format consistency
 
-3. **Quality Control Agent**
-   - Validates generated prompts
-   - Checks for completeness
-   - Ensures clarity and usability
-
 ## 📊 Usage Example
 
 1. Enter your OpenAI API key in the sidebar
@@ -75,8 +73,6 @@ Key configuration options are available through environment variables:
 
 ```env
 OPENAI_API_KEY=your_api_key
-MODEL_NAME=gpt-4
-TEMPERATURE=0.7
 ```
 
 ## 📝 Output Format
@@ -102,21 +98,7 @@ Quality Guidelines:
 Restrictions:
 [constraints]
 ```
+## CONTACT
 
-## 🤝 Contributing
+Reach me out from linkedin : www.linkedin.com/in/enes-koşar
 
-Contributions are welcome! Please:
-
-1. Fork the repository
-2. Create a feature branch
-3. Submit a Pull Request
-
-## 📜 License
-
-MIT License - feel free to use this project for any purpose.
-
-## 🙏 Acknowledgments
-
-- OpenAI for GPT-4
-- Streamlit team for the amazing framework
-- Pydantic team for robust data validation
