@@ -1,0 +1,6 @@
+streamlit==1.32.0
+pydantic>=2.5.0
+pydantic-ai==0.1.0
+python-dotenv==1.0.0
+nest-asyncio==1.5.8
+openai==1.12.0
